@@ -1,2 +1,2 @@
 # bStarRP-Public
-Community Discusions, Issue Tracking and Project planning for bStarRP
+Community discusions, issue tracking and project planning for bStarRP
